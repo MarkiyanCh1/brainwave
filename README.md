@@ -6,7 +6,7 @@ Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exe
 
 ## 🌐 Live Website
 
-- The application is live and hosted on Vercel. You can access it [here](https://brainwave.vercel.app/).
+- The application is live and hosted on Vercel. You can access it [here](https://superaiassistant.vercel.app/).
 
 ## 📸 Screenshot
 
